@@ -9,4 +9,4 @@ A su vez, en la carpeta DATABASE se puede encontrar el DER para entender la estr
 
 A su vez estos end-point se pueden probar en https://portfolio-backend-mt.herokuapp.com/ + consulta correspondiente.
 
-
+Este repositorio está pensado para ser utlizado junto con el repositorio de "Portfolio-front" creado por este mismo usuario de github.
